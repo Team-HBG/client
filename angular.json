@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "MusicDB"
+  "defaultProject": "MusicDB",
+  "cli": {
+    "analytics": "3e9c391b-b217-417d-a57a-bac5f7b90bc6"
+  }
 }
